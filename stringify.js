@@ -36,3 +36,6 @@ const people=[
 const peoplestring=JSON.stringify(people);
 console.log(people);
 console.log(peoplestring);
+fetch("people.json")
+.then(response => response.json())
+.then(values => values.forEach(value => console.log(value.name)));
