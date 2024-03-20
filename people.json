@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Nidheesh Nelson",
+        "age": 32,
+        "isEmployed": true
+    },
+    {
+        "name": "Nidhin Nelson",
+        "age": 30,
+        "isEmployed": true
+    },
+    {
+        "name": "Nimin Das",
+        "age": 27,
+        "isEmployed": true
+    },
+    {
+        "name": "Nikhil Das",
+        "age": 22,
+        "isEmployed": false
+    }
+]
