@@ -1,0 +1,17 @@
+{
+    "name": "Nidheesh Nelson",
+    "job": "Associate Engineer",
+    "employed": true,
+    "Hobbies": [
+    "bible reading",
+    "walking",
+    "thinking"
+    ],
+    "language":{
+    "java": "elite",
+    "html": "elite",
+    "css": "lame",
+    "js": "lame"
+    },
+    "education": "2 MBAs\n1 BE\n"
+}
