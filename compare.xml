@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <data>
+<name>Nidheesh Nelson</name>
+<job>Associate Engineer</job>
+<employed>true</employed>
+<Hobbies>bible reading</Hobbies>
+<Hobbies>walking</Hobbies>
+<Hobbies>thinking</Hobbies>
+<language>
+<java>elite</java>
+<html>elite</html>
+<css>lame</css>
+<js>lame</js>
+</language>
+<education>2 MBAs 1 BE</education>
+    </data>
+</root>
